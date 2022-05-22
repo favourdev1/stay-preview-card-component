@@ -1,0 +1,47 @@
+body {
+    background: #090b1a;
+}
+
+
+/* * {
+    box-sizing: border-box;
+} */
+
+.con1 {
+    background-color: #1b1938;
+    color: white;
+}
+
+.con2 {
+    /* background-image: url("images/image-header-desktop.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    /* object-fit: contain; */
+}
+
+p {
+    color: #ffffffc4;
+}
+
+.filter {
+    background-color: hsla(244, 38%, 16%, 0.986);
+    width: 100%;
+    opacity: .4;
+}
+
+.sm-txt {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+
+/* @media screen and (max-width:625px) {
+    .con2 {
+        background: url(images/image-header-mobile.jpg) no-repeat;
+        background-size: contain;
+    }
+} */
